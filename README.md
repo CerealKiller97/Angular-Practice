@@ -1,4 +1,5 @@
 # AngularPractice
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f06f10c1-ed36-4e1e-ad41-1bfca0d2a088/deploy-status)](https://app.netlify.com/sites/cranky-elion-8ca37c/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
